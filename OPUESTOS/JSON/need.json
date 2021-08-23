@@ -1,0 +1,54 @@
+[{
+        "categoria": "To need ",
+        "pregunta": "Necesita comprar ropa nueva  ",
+        "respuesta": "He needs to buy new clothes  ",
+        "incorrecta1": "He's needing to buy new clothes ",
+        "incorrecta2": " He would need to buy new clothes",
+        "incorrecta3": "He will need to buy new clothes ",
+        "imagen": "/img/ropa.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To need  ",
+
+        "pregunta": "Ha necesitado muchos libros este año",
+        "respuesta": "He has needed a lot of books this year",
+        "incorrecta1": "He have needed a lot of books this year",
+        "incorrecta2": "He had needed a lot of books this year",
+        "incorrecta3": "He would need a lot of books this year",
+        "imagen": "/img/libros.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To need ",
+        "pregunta": "He needed money for the party",
+        "respuesta": "They knew that she was lying  ",
+        "incorrecta1": "They have known that she was lying ",
+        "incorrecta2": "They had known that she was lying ",
+        "incorrecta3": "They know that she was lying  ",
+        "imagen": "/img/mentiroso.png",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To need ",
+        "pregunta": " No sabrán como ir  ",
+        "respuesta": "They won't know how to go",
+        "incorrecta1": "They aren't going to know how to go",
+        "incorrecta2": "They wouldn't know how to go",
+        "incorrecta3": "They don't know how to go",
+        "imagen": "/img/mapa.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To need ",
+        "pregunta": "Van a saber como dibujarlo",
+        "respuesta": "They are going to know how to draw it",
+        "incorrecta1": "They will know how to draw it ",
+        "incorrecta2": "They know how to draw it",
+        "incorrecta3": "They would know how to draw it ",
+        "imagen": "/img/dibujar.jpg",
+        "objectFit": "cover"
+
+    }
+
+]
